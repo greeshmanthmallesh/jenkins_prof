@@ -1,3 +1,4 @@
+@Library('jenkins_prof') _
 pipeline {
     agent any
 
